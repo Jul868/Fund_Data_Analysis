@@ -1,0 +1,21 @@
+sale_id;sale_date;customer_id;customer_name;customer_city;product_id;product_name;category;quantity;unit_price;rep_id;rep_name;region
+1001;1/07/2025;C001;María Gómez;Bogotá;P100;Teclado Mecánico;Periféricos;2;1200;R10;Juan Pérez;Andina
+1002;2/07/2025;C002;Andrés Rodríguez;Medellín;P101;Mouse Óptico;Periféricos;1;455;R11;Laura Sánchez;Pacífico
+1003;2/07/2025;C001;María Gómez;Bogotá;P200;Monitor 24?;Pantallas;1;3500;R10;Juan Pérez;Andina
+1004;3/07/2025;C003;Luis Martínez;Cali;P300;SSD 1TB;Almacenamiento;3;900;R12;Camila Torres;Pacífico
+1005;4/07/2025;C004;Ana Beltrán;Barranquilla;P100;Teclado Mecánico;Periféricos;1;1200;R11;Laura Sánchez;Pacífico
+1006;5/07/2025;C005;Pedro Castillo;Bogotá;P300;SSD 1TB;Almacenamiento;2;900;R10;Juan Pérez;Andina
+1007;6/07/2025;C006;Carla Mendoza;Cartagena;P101;Mouse Óptico;Periféricos;4;455;R12;Camila Torres;Pacífico
+1008;7/07/2025;C007;Diego López;Bucaramanga;P200;Monitor 24?;Pantallas;2;3500;R11;Laura Sánchez;Pacífico
+1009;8/07/2025;C008;Sofía García;Bogotá;P400;Webcam HD;Periféricos;1;700;R10;Juan Pérez;Andina
+1010;9/07/2025;C009;Javier Ruiz;Medellín;P500;Disco Duro 2TB;Almacenamiento;2;1100;R11;Laura Sánchez;Pacífico
+1011;10/07/2025;C010;Natalia Jiménez;Cali;P200;Monitor 24?;Pantallas;1;3500;R12;Camila Torres;Pacífico
+1012;11/07/2025;C002;Andrés Rodríguez;Medellín;P100;Teclado Mecánico;Periféricos;3;1200;R11;Laura Sánchez;Pacífico
+1013;12/07/2025;C003;Luis Martínez;Cali;P101;Mouse Óptico;Periféricos;5;455;R12;Camila Torres;Pacífico
+1014;13/07/2025;C004;Ana Beltrán;Barranquilla;P200;Monitor 24?;Pantallas;1;3500;R11;Laura Sánchez;Pacífico
+1015;14/07/2025;C005;Pedro Castillo;Bogotá;P400;Webcam HD;Periféricos;2;700;R10;Juan Pérez;Andina
+1016;15/07/2025;C006;Carla Mendoza;Cartagena;P500;Disco Duro 2TB;Almacenamiento;1;1100;R12;Camila Torres;Pacífico
+1017;16/07/2025;C007;Diego López;Bucaramanga;P300;SSD 1TB;Almacenamiento;3;900;R11;Laura Sánchez;Pacífico
+1018;17/07/2025;C008;Sofía García;Bogotá;P100;Teclado Mecánico;Periféricos;1;1200;R10;Juan Pérez;Andina
+1019;18/07/2025;C009;Javier Ruiz;Medellín;P101;Mouse Óptico;Periféricos;2;455;R11;Laura Sánchez;Pacífico
+1020;19/07/2025;C010;Natalia Jiménez;Cali;P200;Monitor 24?;Pantallas;1;3500;R12;Camila Torres;Pacífico

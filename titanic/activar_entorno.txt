@@ -1,0 +1,28 @@
+COMANDOS BÁSICOS - ENTORNO VIRTUAL (Windows)
+==============================================
+ 
+CREAR el entorno virtual (una sola vez):
+    python -m venv venv
+ 
+ACTIVAR el entorno virtual:
+    PowerShell:
+        .\venv\Scripts\Activate.ps1
+ 
+    CMD (símbolo del sistema):
+        venv\Scripts\activate.bat
+ 
+    Sabrás que está activado porque verás (venv) al inicio de la línea.
+ 
+DESACTIVAR el entorno virtual:
+    deactivate
+ 
+INSTALAR librerías dentro del entorno (con el venv activado):
+    pip install -r requirements_min.txt
+ 
+VER las librerías instaladas y sus versiones:
+    pip freeze
+ 
+NOTA:
+Si PowerShell da error de "ejecución de scripts deshabilitada" al activar,
+correr una sola vez:
+    Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
